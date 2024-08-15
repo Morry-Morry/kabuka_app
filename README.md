@@ -1,1 +1,1 @@
-# tenki_app
+# kabuka_app
